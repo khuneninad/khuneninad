@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khuneninad
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing PG-Diploma in Big Data Analytics in CDAC
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python, PySpark, hiveQL, SQL, Cloud.
+- 📫 How to reach me : 📧 ninadkhune2@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact:
 
