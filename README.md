@@ -79,8 +79,8 @@ Here are some of the projects I’ve worked on:
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: *(Add your link here)*
-* 📧 Email: *(Add your email here)*
+* 💼 LinkedIn: https://www.linkedin.com/in/ninadkhune/
+* 📧 Email: ninadkhune3@gmail.com
 
 ---
 
@@ -88,11 +88,4 @@ Here are some of the projects I’ve worked on:
 
 I enjoy solving problems, organizing data, and playing table tennis 🏓
 
----
-
-If you want, I can make this even stronger by:
-
-* Adding **ATS + recruiter keywords**
-* Making it **company-specific (Capgemini, TCS, startups)**
-* Turning it into a **portfolio-style README with badges + visuals**
 
