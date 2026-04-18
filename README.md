@@ -39,7 +39,7 @@ I’m a passionate data professional with a strong foundation in **Big Data tech
 
 ### 📊 Data Visualization
 
-* Power BI
+* Power BI (DAX)
 * Tableau
 
 ### ☁️ Cloud
